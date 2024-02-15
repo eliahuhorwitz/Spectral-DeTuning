@@ -1,0 +1,15 @@
+datasets
+diffusers
+huggingface-hub
+numpy
+pandas
+peft
+torch
+torchvision
+tqdm
+transformers
+wandb
+pytorch-lightning
+lpips
+pillow
+sentence-transformers
