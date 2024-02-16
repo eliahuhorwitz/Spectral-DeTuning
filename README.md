@@ -1,7 +1,7 @@
 # Recovering the Pre-Fine-Tuning Weights of Generative Models
 Official PyTorch Implementation for the "Recovering the Pre-Fine-Tuning Weights of Generative Models" paper.  
 <p align="center">
-    🌐 <a href="https://vision.huji.ac.il/spectral_detuning/" target="_blank">Project</a> | 📃 <a href="http://arxiv.org/abs/" target="_blank">Paper - Later Today</a> | 🤗 <a href="https://huggingface.co/datasets/Eliahu/LoWRA-Bench" target="_blank">Dataset</a> <br>
+    🌐 <a href="https://vision.huji.ac.il/spectral_detuning/" target="_blank">Project</a> | 📃 <a href="https://arxiv.org/abs/2402.10208" target="_blank">Paper</a> | 🤗 <a href="https://huggingface.co/datasets/Eliahu/LoWRA-Bench" target="_blank">Dataset</a> <br>
 </p>
 
 ![](imgs/header.gif)
@@ -25,7 +25,7 @@ ___
 
 > **Recovering the Pre-Fine-Tuning Weights of Generative Models**<br>
 > Eliahu Horwitz, Jonathan Kahana, Yedid Hoshen<br>
-> <a href="http://arxiv.org/abs/" target="_blank">http://arxiv.org/abs/ </a> <br>
+> <a href="https://arxiv.org/abs/2402.10208" target="_blank">https://arxiv.org/abs/2402.10208</a> <br>
 >
 >**Abstract:** The dominant paradigm in generative modeling consists of two steps: 
 > i) pre-training on a large-scale but unsafe dataset, ii) aligning the pre-trained model with human values via fine-tuning.
