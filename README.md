@@ -170,7 +170,12 @@ Coming soon...
 If you find this useful for your research, please use the following.
 
 ```
-
+@article{horwitz2024recovering,
+  title={Recovering the Pre-Fine-Tuning Weights of Generative Models},
+  author={Horwitz, Eliahu and Kahana, Jonathan and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2402.10208},
+  year={2024}
+}
 ```
 
 
