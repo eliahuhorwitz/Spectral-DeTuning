@@ -1,4 +1,4 @@
-# Recovering the Pre-Fine-Tuning Weights of Generative Models
+# Recovering the Pre-Fine-Tuning Weights of Generative Models (ICML 2024)
 Official PyTorch Implementation for the "Recovering the Pre-Fine-Tuning Weights of Generative Models" paper (ICML 2024).  
 <p align="center">
     🌐 <a href="https://vision.huji.ac.il/spectral_detuning/" target="_blank">Project</a> | 📃 <a href="https://arxiv.org/abs/2402.10208" target="_blank">Paper</a> | 🤗 <a href="https://huggingface.co/datasets/Eliahu/LoWRA-Bench" target="_blank">Dataset</a> <br>
